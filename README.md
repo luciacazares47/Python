@@ -1,2 +1,2 @@
 # Python
-Data analysis exercises
+This repository contains data analysis exercises using Python
